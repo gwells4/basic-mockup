@@ -39,7 +39,7 @@
 			</main>
 		</div>
 		<footer>
-			<div class="container bg-black">
+			<div class="container bg-black white-font">
 				<p>Resistance is futile!</p>
 			</div>
 		</footer>
