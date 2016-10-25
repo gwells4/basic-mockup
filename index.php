@@ -6,7 +6,7 @@
 		<title>Basic CSS Exercise</title>
 	</head>
 	<body class="sfooter">
-		<div class="sfooter-content">
+
 			<header class="bg-blue">
 				<div class="full-width-container bg-blue">
 					<h1>Dylan's Profe$$ional Web Page</h1>
@@ -37,8 +37,8 @@
 						<p>I recommend we transfer power to phasers and arm the photon torpedoes. Something strange on the detector circuit. The weapons must have disrupted our communicators. You saw something as tasty as meat, but inorganically materialized out of patterns used by our transporters. Captain, the most elementary and valuable statement in science, the beginning of wisdom, is 'I do not know.' All transporters off.</p>
 					</section>
 				</div>
-			</main>
-		</div>
+
+		</main>
 		<footer>
 			<div class="full-width-container bg-black white-font">
 				<p>Resistance is futile!</p>
