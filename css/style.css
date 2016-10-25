@@ -31,6 +31,13 @@ body {
 	width: 1000px;
 }
 
+.instructions {
+	margin: 1em;
+	border-width: 2px;
+	border-color: lightgray;
+	padding: 1em;
+}
+
 .clear {
 	clear: both;
 }
