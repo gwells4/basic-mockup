@@ -43,6 +43,11 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 
+.pull-left {
+	display: inline-block;
+	float: left;
+}
+
 .bg-black {
 	background-color: black;
 	color: white;
