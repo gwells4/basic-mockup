@@ -46,7 +46,9 @@ body { width: 100%;}
 .pull-left {
 	display: inline-block;
 	float: left;
-	padding: 1em;
+	padding-top: 0;
+	padding-right: 1em;
+	padding-bottom: 1em;
 }
 
 .bg-black {
