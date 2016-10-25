@@ -51,6 +51,14 @@ body { width: 100%;}
 	padding-bottom: 1em;
 }
 
+.pull-right {
+	display: inline-block;
+	float: right;
+	padding-top: 0;
+	padding-left: 1em;
+	padding-bottom: 1em;
+}
+
 .floating-text-around-image {
 	vertical-align: text-top;
 	padding-top: 0;
