@@ -16,7 +16,7 @@ body header {
 
 body footer {
 	margin: 0 auto;
-	height: 5em;
+	padding-top: 5em;
 }
 
 .narrower-width-container {
@@ -24,12 +24,10 @@ body footer {
 	width: 1000px;
 }
 
-/*
 .full-width-container {
 	margin: 0 auto;
 	width: 1000px;
 }
-*/
 
 .clear {
 	clear: both;
