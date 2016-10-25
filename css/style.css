@@ -104,5 +104,6 @@ body { width: 100%;}
 .white-font {
 	color: white;
 	font-size: 5pt;
+	font-style: italic;
 	padding: 3em;
 }
