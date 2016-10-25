@@ -53,6 +53,7 @@ body { width: 100%;}
 
 .floating-text-around-image {
 	vertical-align: text-top;
+	padding-top: 0;
 }
 
 .bg-black {
