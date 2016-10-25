@@ -37,3 +37,14 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+.bg-black {
+	background-color: black;
+	color: white;
+	font-size: 5pt;
+}
+
+.bg-blue {
+	background-color: black;
+	color: white;
+}
