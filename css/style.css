@@ -10,9 +10,9 @@ body {
 	margin: 0;
 }
 
-.container {
+.narrower-width-container {
 	margin: 0 auto;
-	width: 1170px;
+	width: 1000px;
 }
 
 .clear {

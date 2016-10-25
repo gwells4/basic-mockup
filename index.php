@@ -8,12 +8,12 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<header>
-				<div class="container bg-blue">
+				<div class="full-width-container bg-blue">
 					<h1>Dylan's Profe$$ional Web Page</h1>
 				</div>
 			</header>
 			<main>
-				<div class="container">
+				<div class="narrower-width-container">
 					<div class="instructions">
 						<h2>Instructions</h2>
 						<ol>
@@ -39,7 +39,7 @@
 			</main>
 		</div>
 		<footer>
-			<div class="container bg-black white-font">
+			<div class="full-width-container bg-black white-font">
 				<p>Resistance is futile!</p>
 			</div>
 		</footer>
