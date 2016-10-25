@@ -10,6 +10,10 @@ body {
 	margin: 0;
 }
 
+body header {
+	margin: 0 auto;
+}
+
 .narrower-width-container {
 	margin: 0 auto;
 	width: 1000px;
