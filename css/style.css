@@ -44,7 +44,7 @@ body {
 html { display: flex;}
 body { width: 100%;}
 
-/*
+
 .sfooter {
 	display: flex;
 	flex-direction: column;
@@ -54,7 +54,7 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
-*/
+
 
 .pull-left {
 	display: inline-block;
