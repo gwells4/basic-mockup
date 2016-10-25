@@ -14,11 +14,6 @@ body header {
 	margin: 0 auto;
 }
 
-body footer {
-	margin: 0 auto;
-	padding-top: 2em;
-}
-
 .narrower-width-container {
 	margin: 0 auto;
 	width: 1000px;
@@ -92,4 +87,9 @@ body { width: 100%;}
 	color: white;
 	font-size: 5pt;
 	padding: 3em;
+}
+
+body footer {
+	margin: 0 auto;
+	padding-top: 2em;
 }
