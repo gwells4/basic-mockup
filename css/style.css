@@ -16,6 +16,7 @@ body header {
 
 body footer {
 	margin: 0 auto;
+	padding-top: 5em;
 }
 
 .narrower-width-container {
