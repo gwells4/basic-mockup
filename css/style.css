@@ -18,6 +18,8 @@ body {
 .full-width-container {
 	margin: 0 auto;
 	width: 1000px;
+	padding-left: 100%;
+	padding-right: 100%;
 }
 
 .clear {
