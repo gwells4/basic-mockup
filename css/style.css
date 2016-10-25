@@ -59,6 +59,10 @@ body { width: 100%;}
 	padding-bottom: 1em;
 }
 
+.clear {
+	padding: 1em;
+}
+
 .floating-text-around-image {
 	vertical-align: text-top;
 	padding-top: 0;
