@@ -7,7 +7,7 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<header>
+			<header class="bg-blue">
 				<div class="full-width-container bg-blue">
 					<h1>Dylan's Profe$$ional Web Page</h1>
 				</div>
