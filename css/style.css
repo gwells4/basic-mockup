@@ -15,12 +15,11 @@ body {
 	width: 1175px;
 }
 
-
 .clear {
 	clear: both;
 }
 
-
+/*
 #header {
 	margin: 0 auto;
 }
@@ -55,6 +54,7 @@ body {
 .clear {
 	clear: both;
 }
+*/
 
 /***
 * Flexbox Sticky Footer
@@ -76,7 +76,7 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 
-
+/*
 .pull-left {
 	display: inline-block;
 	float: left;
@@ -117,6 +117,8 @@ body { width: 100%;}
 	font-style: italic;
 	padding: 3em;
 }
+*/
+
 
 /*-------------------------------------------------------------*/
 
