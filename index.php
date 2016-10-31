@@ -38,10 +38,13 @@
 				</div>
 			</main>
 		</div>
+
 		<footer>
 			<div class="container">
 				<p>Resistance is futile!</p>
 			</div>
 		</footer>
+
 	</body>
+
 </html>
