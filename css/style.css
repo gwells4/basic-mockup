@@ -179,7 +179,16 @@ section {
 
 img {
 	border: 5px solid lightgray;
-	margin:
+}
+
+img[alt="star trek cat"] {
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+}
+
+img[alt="captain janeway is fierce"] {
+	margin-left: 1rem;
+	margin-bottom: 1rem;
 }
 
 /* Footer Styles */
