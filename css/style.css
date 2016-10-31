@@ -146,7 +146,14 @@ h1 {
 	padding-bottom: 1rem;
 }
 
-
+footer{
+	background-color: black;
+	color: lightgray;
+	font-style: italic;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	font-size: 0.9rem;
+}
 
 
 
