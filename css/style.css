@@ -169,6 +169,19 @@ section {
 	padding: 1rem;
 }
 
+.pull-right {
+	float: right;
+}
+
+.pull-leftt {
+   float: right;
+}
+
+img {
+	border: 5px solid lightgray;
+	margin:
+}
+
 /* Footer Styles */
 
 
